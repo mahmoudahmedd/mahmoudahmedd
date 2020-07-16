@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Mahmoud 👋
+
+I'm student at Faculty of Computers and Artificial Intelligence - Cairo University who is passionate about leveraging technology to make the world a better place, So I like to to work on software projects that help people to solve thier problems.
+
+
+
+## Find me around the web 🌎:
+- All about myself on <a href="http://mahmoud-ahmed.me/">Personal Website</a> ✍🏾
+- Sharing updates on <a href="https://www.linkedin.com/in/mahmoudaahmedd/">LinkedIn</a> 💼
 
 <!--
 **mahmoudahmedd/mahmoudahmedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
