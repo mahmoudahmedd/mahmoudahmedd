@@ -1,12 +1,29 @@
-### Hi, I'm Mahmoud 👋
+### Hi, I'm Mahmoud 👋  
 
-I'm student at Faculty of Computers and Artificial Intelligence - Cairo University who is passionate about leveraging technology to make the world a better place, So I like to to work on software projects that help people to solve thier problems.
+**Software Engineer @Invygo | ex-Dell, Orange | GSoC @Chromium (Google Summer of Code)**  
 
+I enjoy building things that actually solve problems. Over the past few years, I’ve worked on everything from car-rental platforms and fintech integrations to AI-powered tools that listen, learn and act like **ActionGPT.app**, a Chrome extension that uses real-time audio and LLMs to help people get work done faster
 
+I’ve contributed to **Chromium** through **Google Summer of Code** where I developed an internal debugging page for **WebXR**
+The project helped developers inspect, monitor and debug XR sessions (like AR/VR pages) directly inside Chrome similar to how the browser’s history or performance pages work
+That experience gave me deep insights into large-scale codebases, web performance and the open-source workflow used by Google engineers.  
 
-## Find me around the web 🌎:
-- All about myself on <a href="http://mahmoud-ahmed.me/">Personal Website</a> 📄🔗
-- Sharing updates on <a href="https://www.linkedin.com/in/mahmoudaahmedd/">LinkedIn</a> 💼
+I’ve also worked at **Dell** on scalable backend systems and at **Orange** on enterprise software solutions.  
+These experiences taught me how to design reliable systems that balance performance, simplicity and real-world impact
+
+#### What I’m into
+- Backend systems (Node.js, Kotlin, Spring Boot)  
+- Observability & reliability (OpenTelemetry, Honeycomb, Prometheus, Grafana)  
+- AI & LLM applications (speech-to-text, RAG, real-time audio)  
+- Building SaaS tools that make life easier  
+
+#### Side projects
+- **ActionGPT.app** Chrome extension that listens to meetings, answers questions, and generates action items  
+- **FleetTrack** GPS tracking system for vehicles (real-time location & mileage updates)  
+
+## Find me around the web  
+- [LinkedIn](https://www.linkedin.com/in/mahmoudaahmedd/)  
+- [GitHub](https://github.com/mahmoudahmedd)  
 
 <!--
 **mahmoudahmedd/mahmoudahmedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
